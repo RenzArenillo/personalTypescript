@@ -1,5 +1,5 @@
 export const testFunction = () => {
-    console.log("Hello to Typescript")
+    console.log("Haleloo to Typescript")
 }
 
 testFunction();
