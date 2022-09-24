@@ -1,6 +1,11 @@
 import { forEachChild } from "typescript";
 
 
+// GIT: https://github.com/RenzArenillo/personalTypescript
+
+
+
+
 // Exercise1
 interface City {
     city:string
